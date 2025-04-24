@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ahward21
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on A vision
-- 📫 How to reach me shoot me message on github
+https://alexward.framer.wiki/
 
 <!---
 ahward21/ahward21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
